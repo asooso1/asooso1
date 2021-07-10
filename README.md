@@ -3,7 +3,13 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 기호: *, +, - 지원
-
+이텔릭체는 *별표(asterisks)* 혹은 _언더바(underscore)_를 사용하세요.
+두껍게는 **별표(asterisks)** 혹은 __언더바(underscore)__를 사용하세요.
+**_이텔릭체_와 두껍게**를 같이 사용할 수 있습니다.
+취소선은 ~~물결표시(tilde)~~를 사용하세요.
+<u>밑줄</u>은 `<u></u>`를 사용하세요.
+`<pre>, <code>로 변환됩니다.`
+`숫자 1번 키 왼쪽에 있는 `(Grave)를 입력하세요
 <!---
 asooso1/asooso1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
